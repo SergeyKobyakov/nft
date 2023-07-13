@@ -1,7 +1,7 @@
 {
   "description": "DWTest1 some description", 
   "external_url": "https://openseacreatures.io/3", 
-  "image": "ipfs.io/ipfs/QmZdXoqT5jgGPfq3xqBwyP5x7ko621xcxGuvEdwNm88xYe", 
+  "image": "https://ipfs.io/ipfs/QmRH8JXLFJ1o8yWyH21E2ER8Z7qe68RKPqrPsFpB2iWEpx", 
   "name": "DWTest2",
   "attributes": [ ]
 }
