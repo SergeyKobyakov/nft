@@ -1,7 +1,7 @@
 {
   "description": "DWTest1 some description", 
   "external_url": "https://openseacreatures.io/3", 
-  "image": "https://raw.githubusercontent.com/SergeyKobyakov/nft/main/DW%20logo.png", 
-  "name": "DWTest3",
+  "image": "ipfs://QmRH8JXLFJ1o8yWyH21E2ER8Z7qe68RKPqrPsFpB2iWEpx", 
+  "name": "DWTest4",
   "attributes": [ ]
 }
