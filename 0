@@ -30,6 +30,11 @@
     {
       "trait_type": "Total tokens number", 
       "value": "5000"
+    },
+    {
+      "display_type": "date", 
+      "trait_type": "timestamp", 
+      "value": 1683565165167
     }
   ]
 }
