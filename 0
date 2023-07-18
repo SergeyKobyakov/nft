@@ -14,22 +14,22 @@
     },
     {
       "display_type": "number",
-      "trait_type": "ComposerShare", 
+      "trait_type": "Composer Share", 
       "value": 20
     },
     {
       "display_type": "number",
-      "trait_type": "ProducerShare", 
+      "trait_type": "Producer Share", 
       "value": 65
     },
     {
       "display_type": "number", 
-      "trait_type": "publicShare", 
+      "trait_type": "Public Share", 
       "value": 10
     }, 
     {
       "display_type": "number", 
-      "trait_type": "totalTokensNumber", 
+      "trait_type": "Total tokens number", 
       "value": 5000
     }
   ]
