@@ -4,23 +4,44 @@
   "image": "https://ipfs.io/ipfs/QmZdXoqT5jgGPfq3xqBwyP5x7ko621xcxGuvEdwNm88xYe", 
   "name": "DWTest14",
   "attributes": [ 
-    "fingerprint": "c992cc617ae2d857467e594d7e88c95ebc698c1f7b59d08040f8eb16e91badf3",
-    "partitions": [
-      {
-        "role": "Composer",
-        "share": 20
-      },
-      {
-        "role": "Producer",
-        "share": 65
-      }
-    ],
-    "publicShare": 10,
-    "target": "0xde0b6b3a7640000",
-    "timestamp": "1683565165167",
-    "tokens": {
-      "DropStocks": 5000
-    },
-    "totalTokensNumber": 5000
+    {
+      "trait_type": "Base", 
+      "value": "Starfish"
+    }, 
+    {
+      "trait_type": "Eyes", 
+      "value": "Big"
+    }, 
+    {
+      "trait_type": "Mouth", 
+      "value": "Surprised"
+    }, 
+    {
+      "trait_type": "Level", 
+      "value": 5
+    }, 
+    {
+      "trait_type": "Stamina", 
+      "value": 1.4
+    }, 
+    {
+      "trait_type": "Personality", 
+      "value": "Sad"
+    }, 
+    {
+      "display_type": "boost_number", 
+      "trait_type": "Aqua Power", 
+      "value": 40
+    }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Stamina Increase", 
+      "value": 10
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 2
+    }
   ]
 }
