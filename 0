@@ -14,12 +14,12 @@
     },
     {
       "display_type": "number"
-      "trait_type": "Composer share", 
+      "trait_type": "ComposerShare", 
       "value": "20"
     },
     {
       "display_type": "number"
-      "trait_type": "Producer share", 
+      "trait_type": "ProducerShare", 
       "value": "65"
     },
     {
