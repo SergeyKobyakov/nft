@@ -5,43 +5,32 @@
   "name": "DWTest15",
   "attributes": [ 
     {
-      "trait_type": "Fingerprint", 
+      "trait_type": "fingerprint", 
       "value": "c992cc617ae2d857467e594d7e88c95ebc698c1f7b59d08040f8eb16e91badf3"
     },
     {
-      "trait_type": "Eyes", 
-      "value": "Big"
-    }, 
+      "trait_type": "target", 
+      "value": "0xde0b6b3a7640000"
+    },
     {
-      "trait_type": "Mouth", 
-      "value": "Surprised"
-    }, 
+      "display_type": "number"
+      "trait_type": "Composer share", 
+      "value": "20"
+    },
     {
-      "trait_type": "Level", 
-      "value": 5
-    }, 
+      "display_type": "number"
+      "trait_type": "Producer share", 
+      "value": "65"
+    },
     {
-      "trait_type": "Stamina", 
-      "value": 1.4
-    }, 
-    {
-      "trait_type": "Personality", 
-      "value": "Sad"
-    }, 
-    {
-      "display_type": "boost_number", 
-      "trait_type": "Aqua Power", 
-      "value": 40
-    }, 
-    {
-      "display_type": "boost_percentage", 
-      "trait_type": "Stamina Increase", 
+      "display_type": "number", 
+      "trait_type": "publicShare", 
       "value": 10
     }, 
     {
       "display_type": "number", 
-      "trait_type": "Generation", 
-      "value": 2
+      "trait_type": "totalTokensNumber", 
+      "value": 5000
     }
   ]
 }
