@@ -2,7 +2,7 @@
   "description": "Listen at https://music.yandex.ru/album/26367583/track/114950871",
   "external_link": "https://music.yandex.ru/album/26367583/track/114950871", 
   "image": "https://ipfs.io/ipfs/QmZdXoqT5jgGPfq3xqBwyP5x7ko621xcxGuvEdwNm88xYe", 
-  "name": "DWTest20",
+  "name": "DWTest21",
   "attributes": [ 
     {
       "trait_type": "fingerprint", 
@@ -15,7 +15,8 @@
     {
       "display_type": "number",
       "trait_type": "Composer Share", 
-      "value": 20
+      "value": 20,
+      "max_value": 100
     },
     {
       "display_type": "number",
