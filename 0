@@ -15,12 +15,12 @@
     {
       "display_type": "number",
       "trait_type": "ComposerShare", 
-      "value": "20"
+      "value": 20
     },
     {
       "display_type": "number",
       "trait_type": "ProducerShare", 
-      "value": "65"
+      "value": 65
     },
     {
       "display_type": "number", 
