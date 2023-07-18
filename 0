@@ -13,12 +13,12 @@
       "value": "0xde0b6b3a7640000"
     },
     {
-      "display_type": "number"
+      "display_type": "number",
       "trait_type": "ComposerShare", 
       "value": "20"
     },
     {
-      "display_type": "number"
+      "display_type": "number",
       "trait_type": "ProducerShare", 
       "value": "65"
     },
