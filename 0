@@ -2,6 +2,25 @@
   "description": "Listen at https://music.yandex.ru/album/26367583/track/114950871",
   "external_link": "https://music.yandex.ru/album/26367583/track/114950871", 
   "image": "https://ipfs.io/ipfs/QmZdXoqT5jgGPfq3xqBwyP5x7ko621xcxGuvEdwNm88xYe", 
-  "name": "DWTest13",
-  "attributes": [ ]
+  "name": "DWTest14",
+  "attributes": [ 
+    "fingerprint": "c992cc617ae2d857467e594d7e88c95ebc698c1f7b59d08040f8eb16e91badf3",
+    "partitions": [
+      {
+        "role": "Composer",
+        "share": 20
+      },
+      {
+        "role": "Producer",
+        "share": 65
+      }
+    ],
+    "publicShare": 10,
+    "target": "0xde0b6b3a7640000",
+    "timestamp": "1683565165167",
+    "tokens": {
+      "DropStocks": 5000
+    },
+    "totalTokensNumber": 5000
+  ]
 }
